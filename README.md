@@ -5,7 +5,7 @@ RecJam is a locally hosted RecRoom for older versions of Rec Room ranging from 2
 
 ## Disclaimer
 
-This project is not affiliated with [Rec Room](https://recroom.com) in any way, nor intends to infringe on their copyrights. Distributing old versions of Rec Room is copyright infringement, so that's why RecJam does not come bundled with Rec Room at all.
+This project is not affiliated with [Rec Room](https://recroom.com) in anyway, nor intends to infringe on their copyrights. Distributing old versions of Rec Room is copyright infringement, so that's why RecJam does not come bundled with Rec Room at all.
 
 There are some issues that people cant move and idk why :)
 
