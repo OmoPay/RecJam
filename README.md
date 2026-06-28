@@ -42,3 +42,6 @@ Tysm Rec.js and RebornRec for making this project possible :)
 
 ## Socials
 [My Github](https://omopay.github.io/OmoPay-Profile/)
+
+## Credits
+https://github.com/superrabbitkev-dotcom  For the Banner/ Logo and helping for the development
