@@ -1,7 +1,7 @@
 ![Image](https://raw.githubusercontent.com/OmoPay/RecJam-Rec-Room-Patches-/refs/heads/main/Logo.png)
 # RecJam - Localhost RecRoom to revive older versions of Rec Room
 ## About RecJam
-RecJam is a locally hosted RecRoom for older versions of Rec Room ranging from 2016 to 2017.
+RecJam is a locally hosted RecRoom for older versions ranging from 2016 to 2017.
 
 ## Disclaimer
 
