@@ -9,7 +9,6 @@ This project is not affiliated with [Rec Room](https://recroom.com) in anyway, n
 
 There are some issues that people cant move and idk why :)
 
-Because Rec.js doesn't support multiplayer sadly you wont be able to play with others :(
 
 
 ## How to Install
